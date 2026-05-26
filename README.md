@@ -1,6 +1,14 @@
 # 📊 Case NPS Preditivo - AI Scientist (Fase 01)
 
-Projeto desenvolvido para a Fase 01 da pós-graduação em AI Scientist. O objetivo deste case é construir um modelo preditivo capaz de analisar e prever o Net Promoter Score (NPS), auxiliando na tomada de decisão estratégica e na retenção de clientes.
+Projeto desenvolvido para a Fase 01 da pós-graduação em AI Scientist. O objetivo principal deste case é construir soluções preditivas para o Net Promoter Score (NPS), auxiliando na tomada de decisão estratégica e na retenção de clientes. 
+
+O escopo do projeto foca no raciocínio analítico e abrange as seguintes etapas fundamentais:
+
+* **Entendimento do Negócio:** Exercício prático de pensamento analítico e tradução de necessidades corporativas, indo além da execução de código.
+* **Definição da Variável Target:** Mapeamento e definição clara do alvo matemático para o problema de negócio em questão.
+* **Análise Exploratória de Dados (EDA):** Investigação da base de dados com foco total em extrair insights direcionados ao negócio.
+* **Modelagem de Regressão:** Construção de um modelo preditivo desenhado para estimar a nota de NPS do cliente em uma escala contínua.
+* **Modelagem de Classificação:** Desenvolvimento de um segundo modelo focado em categorizar os clientes em grupos estratégicos (ex: satisfeitos vs. insatisfeitos / promotores vs. detratores).
 
 ---
 
