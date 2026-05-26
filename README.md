@@ -32,26 +32,24 @@ O repositório está organizado utilizando as melhores práticas para projetos e
 
 **1. Clone o repositório:**
 ```bash
-git clone [https://github.com/AntoniLima/Fiap_AI_Scientist_Fase_01.git](https://github.com/AntoniLima/Fiap_AI_Scientist_Fase_01.git)
+git clone https://github.com/AntoniLima/Fiap_AI_Scientist_Fase_01.git
 
 2. Instale as dependências:
 Certifique-se de ter o Python instalado e execute:
 
 Bash
 pip install -r requirements.txt
+
 3. Execução:
 
 Inicie explorando os notebooks na pasta /notebooks.
 
 Para rodar o pipeline completo de treinamento, execute: python src/train.py
 
----
-
-## 📅 Apresentação do Case
-
+📅 Apresentação do Case
 A apresentação executiva com os insights de negócio, a definição da target e os resultados dos modelos preditivos pode ser acessada diretamente pelo link abaixo:
 
-👉 **[Acessar Apresentação do Projeto (PDF)](./docs/nps_preditivo_apresentacao.pdf)**
+👉 Acessar Apresentação do Projeto (PDF)
 
 
 👥 Equipe
